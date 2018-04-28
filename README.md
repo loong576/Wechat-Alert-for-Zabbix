@@ -21,3 +21,7 @@ zabbix运行此脚本时需修改脚本所在目录属主和执行权限：
 [root@zabbix-server alertscripts]# chown -R zabbix:zabbix /etc/zabbix/alertscripts/
 [root@zabbix-server alertscripts]# chmod -R 755 /etc/zabbix/alertscripts/
 ```
+
+详细搭建过程及测试：
+<br>
+http://blog.51cto.com/3241766/2108769
